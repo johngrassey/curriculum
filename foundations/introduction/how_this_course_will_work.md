@@ -4,9 +4,9 @@ The Odin Project is an open-source community dedicated to providing the best inf
 
 In this unit, we'll learn about how the web works and start thinking about the basics of computer and web programming.
 
-Each of the following sections and lessons covers essential baseline knowledge.  Even if you have no intention of becoming a web developer, this material should help you gain a useful understanding of the moving parts involved in creating and serving content on the web.
+Each of the following sections and lessons covers essential baseline knowledge. Even if you have no intention of becoming a web developer, this material should help you gain a useful understanding of the moving parts involved in creating and serving content on the web.
 
-We will start by getting familiar with the internet and your own computer.  Next, we'll set up a development environment and learn about Git and GitHub. Then, we'll go over the basics of front-end technologies like HTML, CSS, and JavaScript before stepping into the back end with a brief foray that covers the basic concepts of back-end technologies.
+We will start by getting familiar with the internet and your own computer. Next, we'll set up a development environment and learn about Git and GitHub. Then, we'll go over the basics of front-end technologies like HTML, CSS, and JavaScript before stepping into the back end with a brief foray that covers the basic concepts of back-end technologies.
 
 By the end of this unit, you should not only understand how the web works but also be able to identify and differentiate between all the technologies that you will use to build your own web applications. You will be able to build a basic webpage, style it, and add minor elements of interactivity while working comfortably from the command line.
 
@@ -31,16 +31,16 @@ Try not to think of The Odin Project, or programming, as a class in school. It's
 
 We often get questions about why this course does not cover a language or a tool.
 
-The truth is that once you complete this curriculum, you will **not need** a course like this or any sort of "tutorial". The Odin Project's goal is not to teach you any standalone skills and it is not a tutorial. The main idea is to teach you the *why* and change the way you think.
+The truth is that once you complete this curriculum, you will **not need** a course like this or any sort of "tutorial". The Odin Project's goal is not to teach you any standalone skills and it is not a tutorial. The main idea is to teach you the _why_ and change the way you think.
 
-One of the most difficult parts about this course is adopting the right mindset. An even bigger challenge is learning the core ideas of programming. It isn't just about coding, it is about problem-solving, asking the right questions, and doing enough research. Getting into a position where you are comfortable with the skills will mean that you will also be comfortable at expanding your skill-set. Once you have a solid *base*, it will be simpler to expand upon it. This is exactly what The Odin Project is about: developing these *skills*.
+One of the most difficult parts about this course is adopting the right mindset. An even bigger challenge is learning the core ideas of programming. It isn't just about coding, it is about problem-solving, asking the right questions, and doing enough research. Getting into a position where you are comfortable with the skills will mean that you will also be comfortable at expanding your skill-set. Once you have a solid _base_, it will be simpler to expand upon it. This is exactly what The Odin Project is about: developing these _skills_.
 
 After completing the course you will be in a position where you can simply jump straight into the documentation for anything you are trying to learn.
 Reading the documentation is the best way to learn any tooling. But it takes skill to master. Many people feel intimidated by the technical jargon, which is understandable. People who write documentation usually assume a background in programming. This is exactly why we give you plenty of material to read on your own.
 
 The skills you will gain from completing The Odin Project will be the foundation that you will be building upon for years and decades to come. If you come out of the course thinking that you need another course like this one to learn something like Python, then you either don't believe in yourself or you haven't taken away the important ideas that are covered in this course.
 
-The skills you learn here are transferable to various contexts. Once you know the *idea* and that it is *possible* to do something, actually finding out how to do that thing becomes significantly easier and is simply a Google search away most of the times.
+The skills you learn here are transferable to various contexts. Once you know the _idea_ and that it is _possible_ to do something, actually finding out how to do that thing becomes significantly easier and is simply a Google search away most of the times.
 
 ### A note about human language
 
@@ -48,13 +48,13 @@ The Odin Project attracts people from all over the world who aspire to learn how
 
 If you are a non-English speaker, or English is not a primary language for you, this fact is not meant to discourage you, but to prepare you.
 
-As another part of this preparation, we *highly* recommend spending extra time on topics and terms that you do not understand right away. We also encourage you to seek out additional resources that teach about these topics in your own native language so you can understand them more fully.
+As another part of this preparation, we _highly_ recommend spending extra time on topics and terms that you do not understand right away. We also encourage you to seek out additional resources that teach about these topics in your own native language so you can understand them more fully.
 
 In addition to this, you might also consider using a translation dictionary in your own language alongside our curriculum so you can readily reference it as you go. We do not have any recommendations on these since there are such a wide variety of languages spoken throughout the world, finding one may perhaps be a good first step in learning how to find useful tools online by searching. This is a skill you will utilize and improve as you progress in your learning to be a developer.
 
 ### What comes next
 
-Once you've completed this course, you should feel comfortable with the building blocks of web programming but itching to dig deeper.  Though we spend a fair bit of time digging into each of the major topics in this course, it's really just a taste of what comes next (and all the cool stuff you can do with it).
+Once you've completed this course, you should feel comfortable with the building blocks of web programming but itching to dig deeper. Though we spend a fair bit of time digging into each of the major topics in this course, it's really just a taste of what comes next (and all the cool stuff you can do with it).
 
 The last lesson of this course will give you an opportunity to choose between a Full Stack JavaScript and Full Stack Rails path, both designed to further develop the foundation established in this course. Each path will focus on taking these raw building blocks and honing them into a highly functional skillset.
 
@@ -87,3 +87,6 @@ The following questions are an opportunity to reflect on key topics in this less
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
 - It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
+
+I'm Just Testing a Couple of things out
+I am now going to commit this change.
