@@ -88,5 +88,5 @@ This section contains helpful links to related content. It isn't required, so co
 
 - It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
 
-I'm Just Testing a Couple of things out
+I'm just testing a couple of things out
 I am now going to commit this change.
